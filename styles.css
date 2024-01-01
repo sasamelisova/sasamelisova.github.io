@@ -1,0 +1,46 @@
+  
+  body {
+    background-color: #4F6F52;
+    text-align: center;
+  }
+
+ 
+  .img {
+    padding-top: 2%;
+    height: 205px;
+    width: 193px;
+    border-radius: 50%;
+  }
+  h1 {
+    color: #86A789;
+  }
+  h2 {
+    color: #D2E3C8;
+  }
+  h3 {
+    color: #D2E3C8;
+  }
+  p {
+    color: #F8FAE5;
+    font-size: large;
+  }
+  .description {
+    padding-top: 3%;
+    padding-left: 10%;
+    width: 50%;
+  }
+  .projects_1 {
+    padding-left: 40%;
+    padding-right: 10%;
+  }
+  .projects_2 {
+    width: 50%;
+    padding-top: 4%;
+    padding-left: 10%;
+  }
+  a {
+    font-size: small;
+  }
+  
+
+  
